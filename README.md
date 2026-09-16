@@ -17,9 +17,9 @@ In a statement,
 The original data came from the Cleavland data from the UCI Machine Learning Repository:- https://archive.ics.uci.edu/dataset/45/heart+disease 
 
 ## 3. Evaluation
-### Cross-validated precision: 82%
-### Cross-validated recall: 93%
-### Cross-validated f1-score: 87%
+* Cross-validated precision: 82%
+* Cross-validated recall: 93%
+* Cross-validated f1-score: 87%
 
 
 ## 4. Features
